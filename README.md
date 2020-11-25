@@ -12,7 +12,7 @@
 
 ### TugasLatihan 5 
 
-![gambar output](gambar/soallatihan5.PNG)
+![gambar output](Gambar/soallatihan5.png)
 
 ## Source Code Latihan 5
 ```python
@@ -71,13 +71,11 @@ print(30*"═")
 
 ## Hasil Output
 
-![gambar output](gambar/hasillatihan5.png)
+![gambar output](Gambar/foto%202.png)
 
 ## Soal Praktikum 5
 
-![gambar output](gambar/soalpraktikum5.png)
-
-## PenjelasanPraktikum 5
+![gambar output](Gambar/soalpraktikum5.png)
 
  1) Penggunaan if c.lower()
 
@@ -299,7 +297,7 @@ while True:
 ```
 
 ## Hasil Output Praktikum 5
-![gambar output](gambar/hasilpraktikum5.png)
+![gambar output](Gambar/foto%204.png)
 
 ## Hasil Database Dari Inputan  Praktikum 5
-![gambar output](gambar/database5.png)
+![gambar output](Gambar/foto%205.png)
